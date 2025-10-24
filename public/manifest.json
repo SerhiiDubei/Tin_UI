@@ -1,0 +1,9 @@
+{
+  "short_name": "Tinder AI",
+  "name": "Tinder AI - React Version",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
